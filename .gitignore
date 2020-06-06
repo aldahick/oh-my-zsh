@@ -1,5 +1,5 @@
-# custom files
-custom/
+# custom (secret) files
+custom/*secret*
 
 # temp files directories
 cache/
